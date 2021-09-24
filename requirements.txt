@@ -11,6 +11,8 @@ thop
 ninja
 tabulate
 tensorboard
+torchstat
+
 
 # verified versions
 onnx==1.8.1
